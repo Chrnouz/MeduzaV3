@@ -3,6 +3,7 @@ requests[socks]
 cookiejar
 bs4
 setuptools
+tqdm
 python-socketio
 websockets
 websocket-client
